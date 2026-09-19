@@ -1891,3 +1891,13 @@ form#contactForm button.send-btn span {
 form#contactForm button.send-btn:hover span {
     transform: translateX(5px) !important;
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
